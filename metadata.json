@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Board",
+  "description": "A feature-rich Kanban board application with drag-and-drop functionality, task management, and persistent storage.",
+  "requestFramePermissions": []
+}
